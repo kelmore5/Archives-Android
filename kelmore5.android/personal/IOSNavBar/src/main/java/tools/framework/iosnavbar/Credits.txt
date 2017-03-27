@@ -1,0 +1,24 @@
+Create selector programatically:
+http://stackoverflow.com/questions/32226232/android-create-selector-programmatically
+
+Create layer-list programatically:
+http://stackoverflow.com/questions/15100660/create-layer-list-with-rounded-corners-programmatically
+
+Get bitmap from resource:
+http://stackoverflow.com/questions/4955268/how-to-set-a-bitmap-from-resource
+
+Declare array in styleable resources
+http://stackoverflow.com/questions/14219685/how-to-define-an-array-of-integers-in-a-declare-styleable
+
+Reduce size of background image:
+http://stackoverflow.com/questions/30437223/how-to-decrease-radio-button-drawable-size/35550901#35550901
+http://developer.android.com/guide/topics/resources/drawable-resource.html#Inset
+
+Copy drawable:
+http://stackoverflow.com/questions/7979440/android-cloning-a-drawable-in-order-to-make-a-statelistdrawable-with-filters
+
+Get properties from attirbutes (aka get properties from xml):
+http://stackoverflow.com/questions/8037101/how-to-get-attributeset-properties
+
+Get color from custom property in xml:
+http://stackoverflow.com/questions/15543186/colorstatelist-android-programmatically

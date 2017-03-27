@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/iDaft/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 42,
+                    "endOffset": 93
+                },
+                "from": {
+                    "file": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/iDaft/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 130,
+                        "endColumn": 42,
+                        "endOffset": 168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 98,
+                    "endColumn": 69,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/iDaft/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 69,
+                        "endOffset": 124
+                    }
+                }
+            }
+        ]
+    }
+]

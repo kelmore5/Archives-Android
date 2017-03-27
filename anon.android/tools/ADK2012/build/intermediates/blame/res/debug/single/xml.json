@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/xml/brightness_preferences.xml",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/res/xml/brightness_preferences.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/xml/color_preferences.xml",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/res/xml/color_preferences.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/xml/usb_accessory_filter.xml",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/res/xml/usb_accessory_filter.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/xml/alarm_preferences.xml",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/res/xml/alarm_preferences.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/xml/clock_preferences.xml",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/res/xml/clock_preferences.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/xml/display_preferences.xml",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/res/xml/display_preferences.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/xml/volume_preferences.xml",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/res/xml/volume_preferences.xml"
+    }
+]

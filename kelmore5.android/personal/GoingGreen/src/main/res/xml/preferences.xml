@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <PreferenceCategory
+        android:key="pref_key_notifications"
+        android:title="@string/notificationsTitle" >
+        <SwitchPreference
+            android:id="@+id/notifyOnOff"
+            android:defaultValue="false"
+            android:key="pref_notifyOnOff"
+            android:summary="@string/notifyOnOffDesc"
+            android:title="@string/notifyOnOff" />
+
+        <CheckBoxPreference
+            android:id="@+id/alwaysNotify"
+            android:defaultValue="false"
+            android:dependency="pref_notifyOnOff"
+            android:key="pref_alwaysNotify"
+            android:summary="@string/alwaysNotifyDesc"
+            android:title="@string/alwaysNotify" />
+
+        <ListPreference
+            android:id="@+id/notifyFrequency"
+            android:defaultValue="21600000"
+            android:dependency="pref_notifyOnOff"
+            android:entries="@array/notifyFrequencyReadList"
+            android:entryValues="@array/notifyFrequencyValuesList"
+            android:key="pref_notifyFrequency"
+            android:summary="@string/notifyFrequencyDesc"
+            android:title="@string/notifyFrequency" />
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:key="pref_cat_temp"
+        android:title="@string/temp" >
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="pref_degrees"
+            android:summary="@string/tempDegreesDesc"
+            android:title="@string/tempDegrees" />
+
+        <EditTextPreference
+            android:key="pref_zipCode"
+            android:summary="@string/zipCodeDesc"
+            android:title="@string/zipCode"
+            android:defaultValue="27705" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

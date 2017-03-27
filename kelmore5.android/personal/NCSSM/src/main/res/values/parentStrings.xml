@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="polls">Polls</string>
+    <string name="focus">Focus Quick Links</string>
+    <string name="events">Featured Events</string>
+    <string name="directory">Faculty/Staff Directory</string>
+    <string name="unis">Go Unis</string>
+    <string name="calendar">Calendar</string>
+    <string name="safety">Campus Safety/Health Updates</string>
+    <string name="photos">Week in Photos</string>
+    
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ADK2012/ADK2012.iml" filepath="$PROJECT_DIR$/ADK2012/ADK2012.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AccelerometerPlay/AccelerometerPlay.iml" filepath="$PROJECT_DIR$/AccelerometerPlay/AccelerometerPlay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Clock2_0/Clock2_0.iml" filepath="$PROJECT_DIR$/Clock2_0/Clock2_0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ComicViewer/ComicViewer.iml" filepath="$PROJECT_DIR$/ComicViewer/ComicViewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GoingGreen/GoingGreen.iml" filepath="$PROJECT_DIR$/GoingGreen/GoingGreen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ICSComicViewer/ICSComicViewer.iml" filepath="$PROJECT_DIR$/ICSComicViewer/ICSComicViewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IOSNavBar/IOSNavBar.iml" filepath="$PROJECT_DIR$/IOSNavBar/IOSNavBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ImageView/ImageView.iml" filepath="$PROJECT_DIR$/ImageView/ImageView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LazyTexter/LazyTexter.iml" filepath="$PROJECT_DIR$/LazyTexter/LazyTexter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MagicEightBall/MagicEightBall.iml" filepath="$PROJECT_DIR$/MagicEightBall/MagicEightBall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NCSSM/NCSSM.iml" filepath="$PROJECT_DIR$/NCSSM/NCSSM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RandomFJ/RandomFJ.iml" filepath="$PROJECT_DIR$/RandomFJ/RandomFJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleInstaClone/SimpleInstaClone.iml" filepath="$PROJECT_DIR$/SimpleInstaClone/SimpleInstaClone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SnapchatClone/SnapchatClone.iml" filepath="$PROJECT_DIR$/SnapchatClone/SnapchatClone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SoundBoard/SoundBoard.iml" filepath="$PROJECT_DIR$/SoundBoard/SoundBoard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SuperLazyTexter/SuperLazyTexter.iml" filepath="$PROJECT_DIR$/SuperLazyTexter/SuperLazyTexter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SuperMagicEightBall/SuperMagicEightBall.iml" filepath="$PROJECT_DIR$/SuperMagicEightBall/SuperMagicEightBall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TheKeLonichles.iml" filepath="$PROJECT_DIR$/TheKeLonichles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Touch/Touch.iml" filepath="$PROJECT_DIR$/Touch/Touch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/funnyjunk/funnyjunk.iml" filepath="$PROJECT_DIR$/funnyjunk/funnyjunk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iDaft/iDaft.iml" filepath="$PROJECT_DIR$/iDaft/iDaft.iml" />
+    </modules>
+  </component>
+</project>

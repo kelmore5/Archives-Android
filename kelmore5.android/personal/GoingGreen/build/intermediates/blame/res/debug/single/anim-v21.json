@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/build/intermediates/res/merged/debug/anim-v21/design_appbar_state_list_animator.xml",
+        "source": "/home/kyle/.android/build-cache/d90cb83f7d6d428f2f31c85af62d11628629c7a2/output/res/anim-v21/design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/kyle/.android/build-cache/d90cb83f7d6d428f2f31c85af62d11628629c7a2/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/kyle/.android/build-cache/d90cb83f7d6d428f2f31c85af62d11628629c7a2/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]

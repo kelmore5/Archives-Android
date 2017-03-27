@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, LazyTexterActivity!</string>
+    <string name="app_name">LazyTexter</string>
+    <string-array name="greetings">
+    	<item>Hello</item>
+    	<item>Hi</item>
+    	<item>I hate you</item>
+    	<item>lololololol</item>
+    	<item>Sup</item>
+    	<item>Bonjour</item>
+    	<item>Konnichiwa</item>
+    </string-array>
+
+</resources>

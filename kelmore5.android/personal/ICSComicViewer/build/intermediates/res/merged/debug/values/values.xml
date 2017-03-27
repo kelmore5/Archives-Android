@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CAD">Ctrl+Alt+Delete</string>
+    <string name="app_name">Touch</string>
+    <string name="back">&lt;</string>
+    <string name="doesNotExist">Comic does not exist.</string>
+    <string name="first">&lt;&lt;</string>
+    <string name="hello">Hello World, Touch!</string>
+    <string name="hint">#</string>
+    <string name="last">>></string>
+    <string name="next">></string>
+    <string name="random">Random</string>
+    <string name="reset">Reset Picture</string>
+    <string name="xkcd">XKCD</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NCSSM</string>
+    <string name="menu_settings">Settings</string>
+    <string name="setAsDefault">Set as default and do not ask again (You can change this later in Settings)</string>
+    <string name="setAsDefault2">Set as default (You can change this later in Settings)</string>
+    <string name="contactUs">Contact Us</string>
+    <string name="bugReport">Bug Report</string>
+    <string name="bugReportDesc">Please use this to report any bugs in the program!</string>
+    <string name="ultimateCreator">Kyle Elmore</string>
+    <string name="poweredBy">Powered By:</string>
+    <string name="turnOff">* You can turn this off in settings</string>
+    <string name="other">Other</string>
+    <string name="prosStudents">Prospective Students</string>
+    <string name="curStudents">Current Students</string>
+    <string name="parents">Parents</string>
+    
+</resources>

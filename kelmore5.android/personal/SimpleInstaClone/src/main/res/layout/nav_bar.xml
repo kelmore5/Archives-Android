@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/white"
+    tools:context="learning.clones.simpleinstaclone.MainActivity">
+
+    <!--Placeholder for fragments-->
+    <FrameLayout
+        android:id="@+id/main_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="56dp" />
+
+    <!--The navigation bar-->
+    <RadioGroup
+        android:id="@+id/navbar"
+        android:layout_width="fill_parent"
+        android:layout_height="56dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/darkGrey"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/btnHome"
+            style="@style/navbar_button"
+            android:background="@drawable/tab_home_selector" />
+        <RadioButton
+            android:id="@+id/btnSearch"
+            style="@style/navbar_button"
+            android:background="@drawable/tab_search_selector" />
+
+        <RadioButton
+            android:id="@+id/btnGallery"
+            style="@style/navbar_button"
+            android:background="@drawable/tab_gallery_selector" />
+
+        <RadioButton
+            android:id="@+id/btnFollowing"
+            style="@style/navbar_button"
+            android:background="@drawable/tab_following_selector" />
+        <RadioButton
+            android:id="@+id/btnProfile"
+            style="@style/navbar_button"
+            android:background="@drawable/tab_profile_selector" />
+
+    </RadioGroup>
+</RelativeLayout>

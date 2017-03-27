@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- General Strings -->
+    <string name="mainImageAltText">NCSSM main logo</string>
+    <string name="menuDescription">Main menu bar</string>
+    <string name="loc">Location</string>
+    <string name="tempInside">Temperature inside:</string>
+    <string name="tempOutside">Temperature outside:</string>
+    <string name="energyWaste">Energy waste:</string>
+
+    <!-- Settings -->
+    <string name="notificationsTitle">Notifications</string>
+    <string name="alwaysNotify">Notification always on</string>
+    <string name="alwaysNotifyDesc">Check this if you want notifications to always be notifed about temperature</string>
+    <string name="notifyOnOff">Notifications</string>
+    <string name="notifyOnOffDesc">Turn notifications on or off</string>
+    <string name="notifyFrequency">Update frequency</string>
+    <string name="notifyFrequencyDesc">Determines how often the notfication is updated/created</string>
+
+    <string-array name="notifyFrequencyReadList">
+        <item>30 Minutes</item>
+        <item>1 Hour</item>
+        <item>3 Hours</item>
+        <item>6 Hours</item>
+        <item>12 Hours</item>
+        <item>Every day</item>
+        <item>Every week</item>
+    </string-array>
+    <string-array name="notifyFrequencyValuesList">
+        <item>1800000</item>
+        <item>3600000</item>
+        <item>10800000</item>
+        <item>21600000</item>
+        <item>43200000</item>
+        <item>86400000</item>
+        <item>604800000</item>
+    </string-array>
+
+    <string name="tempDegrees">Degrees Celsius</string>
+    <string name="tempDegreesDesc">Check this if you want temperature readings in degrees Celsius instead of Fahrenheit</string>
+    <string name="zipCode">Zip code</string>
+    <string name="zipCodeDesc">Enter your zip code for temperature information</string>
+
+    <!-- Map -->
+    <string name="setHomeAddr">Set Home (By Address)</string>
+    <string name="setHomeLoc">Set Home (By Current Location)</string>
+    <string name="setHomeDesc">Set your home for the application to use</string>
+    <string name="mapMenuDescription">Map menu bar</string>
+    <string name="mapSettings">Map Settings</string>
+    <string name="setHomeNotify">Notification when leaving</string>
+    <string name="setHomeNotifyDesc">Set whether you want to be notified when you leave your house next</string>
+
+</resources>

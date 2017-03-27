@@ -1,0 +1,4 @@
+package learning.clones.snapchatclone;
+
+How to zoom with camera:
+http://stackoverflow.com/questions/18594602/how-to-implement-pinch-zoom-feature-for-camera-preview

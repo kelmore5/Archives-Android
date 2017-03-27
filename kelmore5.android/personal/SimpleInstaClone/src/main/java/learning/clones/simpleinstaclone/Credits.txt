@@ -1,0 +1,24 @@
+
+How to change color using android:background
+http://stackoverflow.com/questions/2748830/how-to-change-background-color-in-android-app
+
+How to make bottom bar usings tabs:
+http://stackoverflow.com/questions/7147216/how-to-make-bottom-bar-or-navigation-bar-like-iphone-like-mytubo-on-android
+
+Drawable - layer-list:
+http://stackoverflow.com/questions/25205439/can-be-drawable-and-color-be-combined-in-an-androidbackground
+
+Icons:
+https://design.google.com/icons/index.html#ic_home
+
+Make iPhone nav bar with RadioButton:
+http://www.rainbowbreeze.it/navigationbar-in-style-iphone-uitabbarcontroller-per-android/
+
+Building flexible UI with fragments:
+http://developer.android.com/training/basics/fragments/fragment-ui.html
+
+Circular ImageView:
+https://github.com/hdodenhof/CircleImageView
+
+Combine multiple layout files:
+http://stackoverflow.com/questions/15418943/combine-multiple-xml-files-into-one-final-android-layout

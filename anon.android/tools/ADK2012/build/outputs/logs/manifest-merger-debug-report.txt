@@ -1,0 +1,253 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:2:1-108:12
+	package
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml
+		INJECTED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml
+		INJECTED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml
+		INJECTED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.3.0] /home/kyle/.android/build-cache/d132227e629a729887c77652d056003648ef067d/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.0] /home/kyle/.android/build-cache/f6c937a156b6eccaad4e6028d34866907abc2f70/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/kyle/.android/build-cache/9acacad7710021c0d51ae50651c2692f8a59ceeb/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/kyle/.android/build-cache/df18590c3e84d8fde38ee84bea2489909ee548fb/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /home/kyle/.android/build-cache/d4120a0758c1854bfac5b98d88a26ace454b468e/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.0] /home/kyle/.android/build-cache/963392347225ec49b4607dc9d36ad2a002d2034b/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.0] /home/kyle/.android/build-cache/7069d0cab5df879c08444d91a1b906dc3b73d9bc/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] /home/kyle/.android/build-cache/65596624117cf795f8bd544459dc78dd3be784c5/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/kyle/.android/build-cache/1b7c57a8f2f92b163337b92666481a0e3fc257bb/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/kyle/.android/build-cache/cb46bb45bf90ba72e7528cadcc8cd5c952ace620/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/kyle/.android/build-cache/e635dd8630c2d0699daf9a7ee871890bed36dc52/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.0] /home/kyle/.android/build-cache/d6ac1bed013964d5aa2c557381a6ed5599726302/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.0] /home/kyle/.android/build-cache/d132227e629a729887c77652d056003648ef067d/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml
+		INJECTED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml
+		INJECTED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:11:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:12:22-71
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:13:22-78
+uses-feature#android.hardware.usb.accessory
+ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:15:5-17:35
+	android:required
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:17:9-32
+	android:name
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:16:9-54
+application
+ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:19:5-106:19
+MERGED from [com.android.support:design:25.3.0] /home/kyle/.android/build-cache/d132227e629a729887c77652d056003648ef067d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.0] /home/kyle/.android/build-cache/f6c937a156b6eccaad4e6028d34866907abc2f70/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/kyle/.android/build-cache/9acacad7710021c0d51ae50651c2692f8a59ceeb/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/kyle/.android/build-cache/df18590c3e84d8fde38ee84bea2489909ee548fb/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.0] /home/kyle/.android/build-cache/963392347225ec49b4607dc9d36ad2a002d2034b/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.0] /home/kyle/.android/build-cache/7069d0cab5df879c08444d91a1b906dc3b73d9bc/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] /home/kyle/.android/build-cache/65596624117cf795f8bd544459dc78dd3be784c5/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/kyle/.android/build-cache/1b7c57a8f2f92b163337b92666481a0e3fc257bb/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/kyle/.android/build-cache/cb46bb45bf90ba72e7528cadcc8cd5c952ace620/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/kyle/.android/build-cache/e635dd8630c2d0699daf9a7ee871890bed36dc52/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] /home/kyle/.android/build-cache/d6ac1bed013964d5aa2c557381a6ed5599726302/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:22:9-47
+	android:hardwareAccelerated
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:20:9-43
+	android:icon
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:21:9-49
+	android:theme
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:23:9-42
+uses-library#com.android.future.usb.accessory
+ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:24:9-73
+	android:name
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:24:23-70
+activity#com.google.android.apps.adk2.activity.ConnectActivity
+ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:26:9-35:20
+	android:screenOrientation
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:29:13-49
+	android:label
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:28:13-51
+	android:name
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:27:13-53
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:33:27-74
+activity#com.google.android.apps.adk2.activity.BTDeviceListActivity
+ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:36:9-39:52
+	android:screenOrientation
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:39:13-49
+	android:label
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:38:13-46
+	android:name
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:37:13-58
+activity#com.google.android.apps.adk2.activity.HomeActivity
+ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:40:9-44:20
+	android:screenOrientation
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:43:13-49
+	android:label
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:42:13-51
+	android:name
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:41:13-50
+activity#com.google.android.apps.adk2.activity.AlarmActivity
+ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:45:9-48:52
+	android:screenOrientation
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:48:13-49
+	android:label
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:47:13-42
+	android:name
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:46:13-51
+activity#com.google.android.apps.adk2.activity.ClockActivity
+ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:49:9-52:52
+	android:screenOrientation
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:52:13-49
+	android:label
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:51:13-42
+	android:name
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:50:13-51
+activity#com.google.android.apps.adk2.activity.VolumeActivity
+ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:53:9-56:52
+	android:screenOrientation
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:56:13-49
+	android:label
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:55:13-43
+	android:name
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:54:13-52
+activity#com.google.android.apps.adk2.activity.ColorActivity
+ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:57:9-60:52
+	android:screenOrientation
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:60:13-49
+	android:label
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:59:13-42
+	android:name
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:58:13-51
+activity#com.google.android.apps.adk2.activity.ColorRGBActivity
+ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:61:9-64:52
+	android:screenOrientation
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:64:13-49
+	android:label
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:63:13-42
+	android:name
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:62:13-54
+activity#com.google.android.apps.adk2.activity.ColorCameraActivity
+ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:65:9-68:52
+	android:screenOrientation
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:68:13-49
+	android:label
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:67:13-42
+	android:name
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:66:13-57
+activity#com.google.android.apps.adk2.activity.ColorSensorActivity
+ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:69:9-72:52
+	android:screenOrientation
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:72:13-49
+	android:label
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:71:13-49
+	android:name
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:70:13-57
+activity#com.google.android.apps.adk2.activity.ColorCombinationsActivity
+ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:73:9-76:52
+	android:screenOrientation
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:76:13-49
+	android:label
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:75:13-55
+	android:name
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:74:13-63
+activity#com.google.android.apps.adk2.activity.BrightnessActivity
+ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:77:9-80:52
+	android:screenOrientation
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:80:13-49
+	android:label
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:79:13-47
+	android:name
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:78:13-56
+activity#com.google.android.apps.adk2.activity.DisplayActivity
+ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:81:9-84:52
+	android:screenOrientation
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:84:13-49
+	android:label
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:83:13-44
+	android:name
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:82:13-53
+activity#com.google.android.apps.adk2.activity.PresetsActivity
+ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:85:9-88:52
+	android:screenOrientation
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:88:13-49
+	android:label
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:87:13-44
+	android:name
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:86:13-53
+activity#com.google.android.apps.adk2.activity.LicenseActivity
+ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:89:9-92:52
+	android:screenOrientation
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:92:13-49
+	android:label
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:91:13-45
+	android:name
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:90:13-53
+activity#com.google.android.apps.adk2.USBAccessoryActivity
+ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:93:9-105:20
+	android:label
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:95:13-50
+	android:launchMode
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:96:13-48
+	android:taskAffinity
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:97:13-36
+	android:name
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:94:13-48
+intent-filter#android.hardware.usb.action.USB_ACCESSORY_ATTACHED
+ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:98:13-100:29
+action#android.hardware.usb.action.USB_ACCESSORY_ATTACHED
+ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:99:17-93
+	android:name
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:99:25-90
+meta-data#android.hardware.usb.action.USB_ACCESSORY_ATTACHED
+ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:102:13-104:64
+	android:resource
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:104:17-61
+	android:name
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/AndroidManifest.xml:103:17-82
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.0] /home/kyle/.android/build-cache/d132227e629a729887c77652d056003648ef067d/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.0] /home/kyle/.android/build-cache/f6c937a156b6eccaad4e6028d34866907abc2f70/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/kyle/.android/build-cache/9acacad7710021c0d51ae50651c2692f8a59ceeb/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/kyle/.android/build-cache/df18590c3e84d8fde38ee84bea2489909ee548fb/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /home/kyle/.android/build-cache/d4120a0758c1854bfac5b98d88a26ace454b468e/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.0] /home/kyle/.android/build-cache/963392347225ec49b4607dc9d36ad2a002d2034b/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.0] /home/kyle/.android/build-cache/7069d0cab5df879c08444d91a1b906dc3b73d9bc/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] /home/kyle/.android/build-cache/65596624117cf795f8bd544459dc78dd3be784c5/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/kyle/.android/build-cache/1b7c57a8f2f92b163337b92666481a0e3fc257bb/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/kyle/.android/build-cache/cb46bb45bf90ba72e7528cadcc8cd5c952ace620/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/kyle/.android/build-cache/e635dd8630c2d0699daf9a7ee871890bed36dc52/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] /home/kyle/.android/build-cache/d6ac1bed013964d5aa2c557381a6ed5599726302/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.0] /home/kyle/.android/build-cache/d132227e629a729887c77652d056003648ef067d/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.0] /home/kyle/.android/build-cache/d132227e629a729887c77652d056003648ef067d/output/AndroidManifest.xml:26:9-47

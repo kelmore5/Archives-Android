@@ -1,0 +1,197 @@
+[
+    {
+        "outputFile": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/Clock20/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 50,
+                    "endOffset": 101
+                },
+                "from": {
+                    "file": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/Clock20/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 474,
+                        "endColumn": 50,
+                        "endOffset": 520
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 106,
+                    "endColumn": 46,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/Clock20/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 118,
+                        "endColumn": 46,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 153,
+                    "endColumn": 45,
+                    "endOffset": 194
+                },
+                "from": {
+                    "file": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/Clock20/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 273,
+                        "endColumn": 45,
+                        "endOffset": 314
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 199,
+                    "endColumn": 58,
+                    "endOffset": 253
+                },
+                "from": {
+                    "file": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/Clock20/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 214,
+                        "endColumn": 58,
+                        "endOffset": 268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 258,
+                    "endColumn": 48,
+                    "endOffset": 302
+                },
+                "from": {
+                    "file": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/Clock20/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 48,
+                        "endOffset": 209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 307,
+                    "endColumn": 61,
+                    "endOffset": 364
+                },
+                "from": {
+                    "file": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/Clock20/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 61,
+                        "endOffset": 113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 369,
+                    "endColumn": 48,
+                    "endOffset": 413
+                },
+                "from": {
+                    "file": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/Clock20/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 383,
+                        "endColumn": 48,
+                        "endOffset": 427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 418,
+                    "endColumn": 39,
+                    "endOffset": 453
+                },
+                "from": {
+                    "file": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/Clock20/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 525,
+                        "endColumn": 39,
+                        "endOffset": 560
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 458,
+                    "endColumn": 63,
+                    "endOffset": 517
+                },
+                "from": {
+                    "file": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/Clock20/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 319,
+                        "endColumn": 63,
+                        "endOffset": 378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 522,
+                    "endColumn": 41,
+                    "endOffset": 559
+                },
+                "from": {
+                    "file": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/Clock20/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 432,
+                        "endColumn": 41,
+                        "endOffset": 469
+                    }
+                }
+            }
+        ]
+    }
+]

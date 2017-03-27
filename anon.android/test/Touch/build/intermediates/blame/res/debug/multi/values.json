@@ -1,0 +1,102 @@
+[
+    {
+        "outputFile": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/Touch/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/Touch/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 63,
+                        "endColumn": 49,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 37,
+                    "endOffset": 138
+                },
+                "from": {
+                    "file": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/Touch/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 163,
+                        "endColumn": 37,
+                        "endOffset": 196
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 143,
+                    "endColumn": 37,
+                    "endOffset": 176
+                },
+                "from": {
+                    "file": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/Touch/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 202,
+                        "endColumn": 37,
+                        "endOffset": 235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 181,
+                    "endColumn": 41,
+                    "endOffset": 218
+                },
+                "from": {
+                    "file": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/Touch/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 241,
+                        "endColumn": 41,
+                        "endOffset": 278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 223,
+                    "endColumn": 47,
+                    "endOffset": 266
+                },
+                "from": {
+                    "file": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/Touch/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 114,
+                        "endColumn": 47,
+                        "endOffset": 157
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,286 @@
+[
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/kyle/.android/build-cache/f6c937a156b6eccaad4e6028d34866907abc2f70/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/home/kyle/.android/build-cache/d132227e629a729887c77652d056003648ef067d/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/kyle/.android/build-cache/d132227e629a729887c77652d056003648ef067d/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/kyle/.android/build-cache/f6c937a156b6eccaad4e6028d34866907abc2f70/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/kyle/.android/build-cache/d132227e629a729887c77652d056003648ef067d/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/device_list.xml",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/res/layout/device_list.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/kyle/.android/build-cache/f6c937a156b6eccaad4e6028d34866907abc2f70/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/home/kyle/.android/build-cache/f6c937a156b6eccaad4e6028d34866907abc2f70/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/kyle/.android/build-cache/f6c937a156b6eccaad4e6028d34866907abc2f70/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/home/kyle/.android/build-cache/f6c937a156b6eccaad4e6028d34866907abc2f70/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/home/kyle/.android/build-cache/d132227e629a729887c77652d056003648ef067d/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/kyle/.android/build-cache/f6c937a156b6eccaad4e6028d34866907abc2f70/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/kyle/.android/build-cache/d132227e629a729887c77652d056003648ef067d/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/kyle/.android/build-cache/d132227e629a729887c77652d056003648ef067d/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/kyle/.android/build-cache/f6c937a156b6eccaad4e6028d34866907abc2f70/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/kyle/.android/build-cache/f6c937a156b6eccaad4e6028d34866907abc2f70/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/kyle/.android/build-cache/d132227e629a729887c77652d056003648ef067d/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/kyle/.android/build-cache/f6c937a156b6eccaad4e6028d34866907abc2f70/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/kyle/.android/build-cache/d132227e629a729887c77652d056003648ef067d/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/kyle/.android/build-cache/f6c937a156b6eccaad4e6028d34866907abc2f70/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/color_sensor.xml",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/res/layout/color_sensor.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/kyle/.android/build-cache/d132227e629a729887c77652d056003648ef067d/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/home/kyle/.android/build-cache/f6c937a156b6eccaad4e6028d34866907abc2f70/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/kyle/.android/build-cache/f6c937a156b6eccaad4e6028d34866907abc2f70/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/home.xml",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/res/layout/home.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/kyle/.android/build-cache/f6c937a156b6eccaad4e6028d34866907abc2f70/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
+        "source": "/home/kyle/.android/build-cache/f6c937a156b6eccaad4e6028d34866907abc2f70/output/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/kyle/.android/build-cache/f6c937a156b6eccaad4e6028d34866907abc2f70/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/connect.xml",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/res/layout/connect.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/seekbar_preference.xml",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/res/layout/seekbar_preference.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/home/kyle/.android/build-cache/d132227e629a729887c77652d056003648ef067d/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/kyle/.android/build-cache/f6c937a156b6eccaad4e6028d34866907abc2f70/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/kyle/.android/build-cache/f6c937a156b6eccaad4e6028d34866907abc2f70/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/kyle/.android/build-cache/f6c937a156b6eccaad4e6028d34866907abc2f70/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/display.xml",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/res/layout/display.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/kyle/.android/build-cache/f6c937a156b6eccaad4e6028d34866907abc2f70/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/kyle/.android/build-cache/d132227e629a729887c77652d056003648ef067d/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/home_button.xml",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/res/layout/home_button.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/home/kyle/.android/build-cache/d132227e629a729887c77652d056003648ef067d/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/kyle/.android/build-cache/d132227e629a729887c77652d056003648ef067d/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/kyle/.android/build-cache/f6c937a156b6eccaad4e6028d34866907abc2f70/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/preset_name_dialog.xml",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/res/layout/preset_name_dialog.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/kyle/.android/build-cache/f6c937a156b6eccaad4e6028d34866907abc2f70/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/alert_dialog.xml",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/res/layout/alert_dialog.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/kyle/.android/build-cache/f6c937a156b6eccaad4e6028d34866907abc2f70/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/kyle/.android/build-cache/f6c937a156b6eccaad4e6028d34866907abc2f70/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/kyle/.android/build-cache/f6c937a156b6eccaad4e6028d34866907abc2f70/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/kyle/.android/build-cache/f6c937a156b6eccaad4e6028d34866907abc2f70/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/kyle/.android/build-cache/f6c937a156b6eccaad4e6028d34866907abc2f70/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/kyle/.android/build-cache/f6c937a156b6eccaad4e6028d34866907abc2f70/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/device_name.xml",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/res/layout/device_name.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/kyle/.android/build-cache/f6c937a156b6eccaad4e6028d34866907abc2f70/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/color_combinations.xml",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/res/layout/color_combinations.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/kyle/.android/build-cache/f6c937a156b6eccaad4e6028d34866907abc2f70/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/color_camera.xml",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/res/layout/color_camera.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/kyle/.android/build-cache/f6c937a156b6eccaad4e6028d34866907abc2f70/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/kyle/.android/build-cache/f6c937a156b6eccaad4e6028d34866907abc2f70/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/home/kyle/.android/build-cache/f6c937a156b6eccaad4e6028d34866907abc2f70/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/kyle/.android/build-cache/f6c937a156b6eccaad4e6028d34866907abc2f70/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/kyle/.android/build-cache/f6c937a156b6eccaad4e6028d34866907abc2f70/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/kyle/.android/build-cache/f6c937a156b6eccaad4e6028d34866907abc2f70/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/kyle/.android/build-cache/f6c937a156b6eccaad4e6028d34866907abc2f70/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/licenses.xml",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/res/layout/licenses.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/home/kyle/.android/build-cache/d132227e629a729887c77652d056003648ef067d/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/kyle/.android/build-cache/f6c937a156b6eccaad4e6028d34866907abc2f70/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/time_dialog.xml",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/res/layout/time_dialog.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/kyle/.android/build-cache/f6c937a156b6eccaad4e6028d34866907abc2f70/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/presets.xml",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/res/layout/presets.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/kyle/.android/build-cache/f6c937a156b6eccaad4e6028d34866907abc2f70/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/layout/color_rgb.xml",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/res/layout/color_rgb.xml"
+    }
+]

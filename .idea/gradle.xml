@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ADK2012" />
+            <option value="$PROJECT_DIR$/AccelerometerPlay" />
+            <option value="$PROJECT_DIR$/Clock2_0" />
+            <option value="$PROJECT_DIR$/ComicViewer" />
+            <option value="$PROJECT_DIR$/GoingGreen" />
+            <option value="$PROJECT_DIR$/ICSComicViewer" />
+            <option value="$PROJECT_DIR$/IOSNavBar" />
+            <option value="$PROJECT_DIR$/ImageView" />
+            <option value="$PROJECT_DIR$/LazyTexter" />
+            <option value="$PROJECT_DIR$/MagicEightBall" />
+            <option value="$PROJECT_DIR$/NCSSM" />
+            <option value="$PROJECT_DIR$/RandomFJ" />
+            <option value="$PROJECT_DIR$/SimpleInstaClone" />
+            <option value="$PROJECT_DIR$/SnapchatClone" />
+            <option value="$PROJECT_DIR$/SoundBoard" />
+            <option value="$PROJECT_DIR$/SuperLazyTexter" />
+            <option value="$PROJECT_DIR$/SuperMagicEightBall" />
+            <option value="$PROJECT_DIR$/Touch" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/funnyjunk" />
+            <option value="$PROJECT_DIR$/iDaft" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

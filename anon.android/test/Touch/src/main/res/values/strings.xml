@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Comic Viewer</string>
+    <string name="reset">Reset Picture</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="random">Random</string>
+
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncssm.student.government.map.MapWrapperLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/map_relative_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Map" >
+
+    <fragment
+        android:id="@+id/map"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        class="com.google.android.gms.maps.MapFragment" />
+
+    <ImageButton
+        android:id="@+id/mapsMenuButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:contentDescription="@string/mapMenuDescription"
+        android:onClick="showPopup"
+        android:src="@drawable/ic_menu_moreoverflow_normal_holo_dark" />
+
+</ncssm.student.government.map.MapWrapperLayout>

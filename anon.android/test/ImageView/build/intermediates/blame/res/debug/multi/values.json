@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ImageView/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 46,
+                    "endOffset": 97
+                },
+                "from": {
+                    "file": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ImageView/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 126,
+                        "endColumn": 46,
+                        "endOffset": 168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 102,
+                    "endColumn": 65,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ImageView/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 65,
+                        "endOffset": 120
+                    }
+                }
+            }
+        ]
+    }
+]

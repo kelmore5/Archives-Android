@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/Clock20/build/intermediates/res/merged/debug/drawable/icon_sound_off.png",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/Clock20/src/main/res/drawable/icon_sound_off.png"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/Clock20/build/intermediates/res/merged/debug/drawable/icon_alarm.png",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/Clock20/src/main/res/drawable/icon_alarm.png"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/Clock20/build/intermediates/res/merged/debug/drawable/icon_music.png",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/Clock20/src/main/res/drawable/icon_music.png"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/Clock20/build/intermediates/res/merged/debug/drawable/icon_light_on.png",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/Clock20/src/main/res/drawable/icon_light_on.png"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/Clock20/build/intermediates/res/merged/debug/drawable/icon_sound_on.png",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/Clock20/src/main/res/drawable/icon_sound_on.png"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/Clock20/build/intermediates/res/merged/debug/drawable/icon_light_off.png",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/Clock20/src/main/res/drawable/icon_light_off.png"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/Clock20/build/intermediates/res/merged/debug/drawable/icon_extra.png",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/Clock20/src/main/res/drawable/icon_extra.png"
+    }
+]

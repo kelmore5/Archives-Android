@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="letter">Letter from the Chancellor</string>
+    <string name="history">History of NCSSM</string>
+    <string name="offerings">NCSSM Offerings</string>
+    <string name="admissions">Admissions Info</string>
+    <string name="courses">Course Directory</string>
+    <string name="ambassadors">Student Ambassadors</string>
+    <string name="FAQs">FAQ\'s</string>
+    <string name="life">Residential Life</string>
+    
+</resources>

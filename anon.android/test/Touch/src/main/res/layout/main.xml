@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    
+    <ImageView 
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_vertical"
+        android:scaleType="matrix">
+    </ImageView>
+    
+    <Button
+        android:id="@+id/selfDestruct"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="@string/reset"
+        android:layout_alignBottom="@id/imageView"
+        />
+    
+    <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textWidget"
+        android:textColor="#FFFFFF"
+        android:layout_gravity="bottom"
+        android:layout_above="@id/selfDestruct"
+        />
+    <Button 
+        android:id="@+id/back"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="@string/back"
+        android:layout_alignBottom="@id/imageView"
+        android:layout_toRightOf="@id/selfDestruct"
+        />
+    <Button
+        android:id="@+id/forward"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="@string/next"
+        android:layout_alignBottom="@id/imageView"
+        android:layout_toRightOf="@id/back"
+        />
+    <Button
+        android:id="@+id/random"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="@string/random"
+        android:layout_alignBottom="@id/imageView"
+        android:layout_toRightOf="@id/forward"
+        />
+    
+</RelativeLayout>

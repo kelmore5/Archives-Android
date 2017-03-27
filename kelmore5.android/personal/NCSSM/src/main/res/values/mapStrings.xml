@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Main App -->
+    <string name="mapActivity">Guide to Durham Mobile</string>
+    <string name="mapTitle">The Guide to Durham Mobile Application</string>
+    <string name="createdBy">Designed, Developed, and Created By:</string>
+    <string name="sgLogoDesc">SG Logo</string>
+    <string name="mapMenuDescription">Map menu bar</string>
+    <string name="mapMarkerCall">Call</string>
+    <string name="mapMarkerDefaultText">Title</string>
+    <string name="mapMarkerDirections">Get Directions</string>
+
+    <!-- Default Options Buttons -->
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Location Options/Title -->
+    <string name="mapmenu_locations">Show/Hide Locations</string>
+    <string name="map_locations">Locations</string>
+    <string name="mapmenu_mapType">Map Type</string>
+    <string name="mapmenu_GoTo">Go to&#8230;</string>
+
+    <string-array name="goToArray">
+        <item>All</item>
+        <item>NCSSM</item>
+        <item>Food</item>
+        <item>Music</item>
+        <item>Other</item>
+        <item>Restaurant</item>
+        <item>Sports</item>
+        <item>Stores</item>
+    </string-array>
+    
+    <string-array name="locationsArray">
+        <item>Food</item>
+        <item>Music</item>
+        <item>Other</item>
+        <item>Restaurant</item>
+        <item>Sports</item>
+        <item>Stores</item>
+    </string-array>
+
+    <!-- Navigation Options/Titles -->
+    <!-- Application to Use Strings -->
+    <string name="navOptionTitle">App to Use</string>
+    <string name="navOptions0">Google Maps</string>
+    <string name="navOptions1">Navigation</string>
+
+    <string-array name="navOptions">
+        <item>@string/navOptions0</item>
+        <item>@string/navOptions1</item>
+    </string-array>
+
+    <!-- Transportion Method Strings -->
+    <string name="navTransportation">Transportation Method</string>
+
+    <string name="walking">Walking</string>
+    <string name="bicycle">Bicycle</string>
+    <string name="driving">Driving</string>
+    <string name="transit">Transit</string>
+    
+    <string-array name="transportationMethods">
+        <item>@string/walking</item>
+        <item>@string/bicycle</item>
+        <item>@string/driving</item>
+        <item>@string/transit</item>
+    </string-array>
+
+    <!-- Settings -->
+    <string name="settingsMapTitle">Guide to Durham Settings</string>
+    <string name="settingsMap">Map</string>
+    <string name="settingsMapType">Default map type</string>
+    <string name="settingsMapTypeDesc">Check this to set the default map type when the map is first loaded</string>
+    <string name="settingsTransportTitle">Transportation</string>
+    <string name="settingsTransportOptions">Default transportation method</string>
+    <string name="settingsTransportOptionsDesc">Check this to set the default transportation method</string>
+    <string name="settingsTransportApp">Default transportation application</string>
+    <string name="settingsTransportAppDesc">Check this to set the default transportation application</string>
+    <string name="suggestLoc">Suggest a Location</string>
+    <string name="suggestLocDesc">Do you know a location not already on this map? Suggest it here! 
+        This application is fairly new and fairly lacking in locations. Anything you add could be helpful!</string>
+    <string name="introScreenShutOff">Turn off the beautiful intro screen</string>
+    <string name="introScreenShutOffDesc">Aw, you don\'t like my beautiful intro screen? 
+        Well fine. I know it\'s intruding, but you know what, it says my name and it\'s nice.</string>
+    
+    
+    <!-- Map Type Strings -->
+    <string name="normalMap">Normal</string>
+	<string name="hybridMap">Hybrid</string>
+	<string name="satelliteMap">Satellite</string>
+	<string name="terrainMap">Terrain</string>
+	
+	<string-array name="mapTypeOptions">
+	    <item>@string/normalMap</item>
+	    <item>@string/hybridMap</item>
+	    <item>@string/satelliteMap</item>
+	    <item>@string/terrainMap</item>
+	</string-array>
+
+</resources>

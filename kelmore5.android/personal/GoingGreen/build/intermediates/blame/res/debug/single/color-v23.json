@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/kyle/.android/build-cache/b633fb1d302ec5076333bd8e0b0ecb0c26cf041c/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/kyle/.android/build-cache/b633fb1d302ec5076333bd8e0b0ecb0c26cf041c/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/kyle/.android/build-cache/d90cb83f7d6d428f2f31c85af62d11628629c7a2/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/kyle/.android/build-cache/b633fb1d302ec5076333bd8e0b0ecb0c26cf041c/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/kyle/.android/build-cache/b633fb1d302ec5076333bd8e0b0ecb0c26cf041c/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/kyle/.android/build-cache/b633fb1d302ec5076333bd8e0b0ecb0c26cf041c/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/kyle/.android/build-cache/b633fb1d302ec5076333bd8e0b0ecb0c26cf041c/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/kyle/.android/build-cache/b633fb1d302ec5076333bd8e0b0ecb0c26cf041c/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/kyle/.android/build-cache/b633fb1d302ec5076333bd8e0b0ecb0c26cf041c/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/kyle/.android/build-cache/b633fb1d302ec5076333bd8e0b0ecb0c26cf041c/output/res/color-v23/abc_tint_seek_thumb.xml"
+    }
+]

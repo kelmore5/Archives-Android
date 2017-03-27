@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <EditTextPreference
+        android:key="pref_homeAddress"
+        android:summary="@string/setHomeDesc"
+        android:title="@string/setHomeAddr" />
+    
+    <CheckBoxPreference
+        android:key="pref_homeLoc"
+        android:summary="@string/setHomeNotifyDesc"
+        android:title="@string/setHomeLoc"
+        android:defaultValue="false"
+        />
+    
+    <CheckBoxPreference
+        android:key="pref_homeNotify"
+        android:summary="@string/setHomeNotifyDesc"
+        android:title="@string/setHomeNotify"
+        android:defaultValue="false"
+        />
+
+</PreferenceScreen>

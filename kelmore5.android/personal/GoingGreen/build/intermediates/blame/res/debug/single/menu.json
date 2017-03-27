@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/build/intermediates/res/merged/debug/menu/activity_main.xml",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/src/main/res/menu/activity_main.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/build/intermediates/res/merged/debug/menu/map.xml",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/src/main/res/menu/map.xml"
+    }
+]

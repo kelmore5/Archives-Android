@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Navbar">
+        <attr name="icons" format="reference" />
+        <attr name="overlayAlpha" format="integer" />
+        <attr name="selectedColor" format="color" />
+    </declare-styleable>
+</resources>

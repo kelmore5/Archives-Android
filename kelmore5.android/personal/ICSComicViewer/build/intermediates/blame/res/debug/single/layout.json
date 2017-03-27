@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ICSComicViewer/build/intermediates/res/merged/debug/layout/comic.xml",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ICSComicViewer/src/main/res/layout/comic.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ICSComicViewer/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ICSComicViewer/src/main/res/layout/main.xml"
+    }
+]

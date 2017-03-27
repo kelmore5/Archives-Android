@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+    <PreferenceCategory android:title="@string/settingsMap" >
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="pref_defaultMapType"
+            android:summary="@string/settingsMapTypeDesc"
+            android:title="@string/settingsMapType" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/settingsTransportTitle" >
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="pref_defaultApp"
+            android:summary="@string/settingsTransportAppDesc"
+            android:title="@string/settingsTransportApp" />
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="pref_defaultTransport"
+            android:summary="@string/settingsTransportOptionsDesc"
+            android:title="@string/settingsTransportOptions" />
+    </PreferenceCategory>
+    
+    <PreferenceCategory android:title="@string/other">
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="pref_introScreen"
+            android:summary="@string/introScreenShutOffDesc"
+            android:title="@string/introScreenShutOff"
+            />
+    </PreferenceCategory>
+    
+    <PreferenceCategory android:title="@string/contactUs" >
+        <Preference
+            android:key="pref_bugReport"
+            android:summary="@string/bugReportDesc"
+            android:title="@string/bugReport" />
+        <Preference
+            android:key="pref_suggestion"
+            android:summary="@string/suggestLocDesc"
+            android:title="@string/suggestLoc" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

@@ -1,0 +1,88 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/src/main/AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/src/main/AndroidManifest.xml
+		INJECTED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/src/main/AndroidManifest.xml
+		INJECTED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/src/main/AndroidManifest.xml
+		INJECTED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.0.0] /home/kyle/.android/build-cache/d90cb83f7d6d428f2f31c85af62d11628629c7a2/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.0.0] /home/kyle/.android/build-cache/b633fb1d302ec5076333bd8e0b0ecb0c26cf041c/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] /home/kyle/.android/build-cache/dfb6bff3e0c921138a60201fbef79c3c4c9f633e/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.0] /home/kyle/.android/build-cache/1c1dd49b2ebfa23d3e6e89c3862d551ac3aeeba9/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.0.0] /home/kyle/.android/build-cache/bd56f1292e468c9118c8484e62bd861d6d3e141d/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.0.0] /home/kyle/.android/build-cache/34f203dd398ae8ee319053a41eeb7fc91fd8b765/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.0.0] /home/kyle/.android/build-cache/a5632fdd84bc5b70f065d0a18c0578bcf38af8ef/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.0] /home/kyle/.android/build-cache/02f5d032b569353eee3ce4dd54c16d2470615216/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.0] /home/kyle/.android/build-cache/2c753d30a9256068273fe4f4ecd2c48b8ed6bb5a/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.0] /home/kyle/.android/build-cache/cc9ac5da087859b925e7ac2a984abd6055ec8d1e/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.0] /home/kyle/.android/build-cache/0133ff4ba4da106b0d1ec057eb92a005e4992c2a/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.0.0] /home/kyle/.android/build-cache/cdaf91ff753a935e907d3a354757a2a5a240070f/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.0.0] /home/kyle/.android/build-cache/d90cb83f7d6d428f2f31c85af62d11628629c7a2/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/src/main/AndroidManifest.xml
+		INJECTED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/src/main/AndroidManifest.xml
+		INJECTED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/src/main/AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/src/main/AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/src/main/AndroidManifest.xml:11:22-65
+application
+ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/src/main/AndroidManifest.xml:13:5-31:19
+MERGED from [com.android.support:design:25.0.0] /home/kyle/.android/build-cache/d90cb83f7d6d428f2f31c85af62d11628629c7a2/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.0] /home/kyle/.android/build-cache/b633fb1d302ec5076333bd8e0b0ecb0c26cf041c/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] /home/kyle/.android/build-cache/dfb6bff3e0c921138a60201fbef79c3c4c9f633e/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] /home/kyle/.android/build-cache/1c1dd49b2ebfa23d3e6e89c3862d551ac3aeeba9/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.0.0] /home/kyle/.android/build-cache/34f203dd398ae8ee319053a41eeb7fc91fd8b765/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.0.0] /home/kyle/.android/build-cache/a5632fdd84bc5b70f065d0a18c0578bcf38af8ef/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] /home/kyle/.android/build-cache/02f5d032b569353eee3ce4dd54c16d2470615216/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] /home/kyle/.android/build-cache/2c753d30a9256068273fe4f4ecd2c48b8ed6bb5a/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] /home/kyle/.android/build-cache/cc9ac5da087859b925e7ac2a984abd6055ec8d1e/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] /home/kyle/.android/build-cache/0133ff4ba4da106b0d1ec057eb92a005e4992c2a/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.0] /home/kyle/.android/build-cache/cdaf91ff753a935e907d3a354757a2a5a240070f/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/src/main/AndroidManifest.xml:16:9-41
+	android:allowBackup
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/src/main/AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/src/main/AndroidManifest.xml:15:9-45
+	android:theme
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/src/main/AndroidManifest.xml:17:9-40
+activity#com.example.goinggreen.MainActivity
+ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/src/main/AndroidManifest.xml:18:9-26:20
+	android:label
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/src/main/AndroidManifest.xml:20:13-45
+	android:name
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/src/main/AndroidManifest.xml:19:13-63
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/src/main/AndroidManifest.xml:24:27-74
+activity#com.example.goinggreen.Temperature
+ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/src/main/AndroidManifest.xml:27:9-30:15
+	android:label
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/src/main/AndroidManifest.xml:29:13-45
+	android:name
+		ADDED from /home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/src/main/AndroidManifest.xml:28:13-40

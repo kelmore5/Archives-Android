@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/build/intermediates/res/merged/debug/drawable-ldpi/weather.png",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/src/main/res/drawable-ldpi/weather.png"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/build/intermediates/res/merged/debug/drawable-ldpi/ic_launcher.png",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/build/intermediates/res/merged/debug/drawable-ldpi/sun.png",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/src/main/res/drawable-ldpi/sun.png"
+    }
+]

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MagicEightBallActivity!</string>
+    <string name="app_name">MagicEightBall</string>
+    <string name="button">Press me</string>
+    <string name="mainText">Ask me your question and your fortune will appear</string>
+
+</resources>

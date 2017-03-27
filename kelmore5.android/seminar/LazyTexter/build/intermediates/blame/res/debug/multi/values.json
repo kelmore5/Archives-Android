@@ -1,0 +1,66 @@
+[
+    {
+        "outputFile": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/LazyTexter/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 10,
+                    "endColumn": 19,
+                    "endOffset": 287
+                },
+                "from": {
+                    "file": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/LazyTexter/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 171,
+                        "endLine": 13,
+                        "endColumn": 19,
+                        "endOffset": 403
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 292,
+                    "endColumn": 47,
+                    "endOffset": 335
+                },
+                "from": {
+                    "file": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/LazyTexter/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 123,
+                        "endColumn": 47,
+                        "endOffset": 166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 340,
+                    "endColumn": 66,
+                    "endOffset": 402
+                },
+                "from": {
+                    "file": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/LazyTexter/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 66,
+                        "endOffset": 118
+                    }
+                }
+            }
+        ]
+    }
+]

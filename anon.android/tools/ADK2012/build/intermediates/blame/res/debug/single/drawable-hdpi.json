@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/drawable-hdpi/scrubber_horizontal_blue_holo_dark.9.png",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/res/drawable-hdpi/scrubber_horizontal_blue_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/drawable-hdpi/scrubber_horizontal_green_holo_dark.9.png",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/res/drawable-hdpi/scrubber_horizontal_green_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/drawable-hdpi/scrubber_vertical_green_holo_dark.9.png",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/res/drawable-hdpi/scrubber_vertical_green_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/drawable-hdpi/scrubber_horizontal_red_holo_dark.9.png",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/res/drawable-hdpi/scrubber_horizontal_red_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/drawable-hdpi/scrubber_horizontal_holo_dark.9.png",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/res/drawable-hdpi/scrubber_horizontal_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/drawable-hdpi/scrubber_vertical_red_holo_dark.9.png",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/res/drawable-hdpi/scrubber_vertical_red_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher_adk.png",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/res/drawable-hdpi/ic_launcher_adk.png"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/drawable-hdpi/scrubber_vertical_blue_holo_dark.9.png",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/res/drawable-hdpi/scrubber_vertical_blue_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/build/intermediates/res/merged/debug/drawable-hdpi/scrubber_control_holo_dark.png",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/ADK2012/src/main/res/drawable-hdpi/scrubber_control_holo_dark.png"
+    }
+]

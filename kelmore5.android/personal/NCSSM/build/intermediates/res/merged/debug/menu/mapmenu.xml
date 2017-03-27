@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/mapmenu_locations"
+        />
+    
+    <item
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/mapmenu_GoTo"
+        />
+    
+    <item
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/mapmenu_mapType"
+        />
+    
+    <item
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/menu_settings"/>
+
+</menu>

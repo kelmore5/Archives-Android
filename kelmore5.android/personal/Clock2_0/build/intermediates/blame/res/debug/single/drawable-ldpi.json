@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/Clock20/build/intermediates/res/merged/debug/drawable-ldpi/icon_sound_on.png",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/Clock20/src/main/res/drawable-ldpi/icon_sound_on.png"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/Clock20/build/intermediates/res/merged/debug/drawable-ldpi/icon_light_off.png",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/Clock20/src/main/res/drawable-ldpi/icon_light_off.png"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/Clock20/build/intermediates/res/merged/debug/drawable-ldpi/icon_music.png",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/Clock20/src/main/res/drawable-ldpi/icon_music.png"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/Clock20/build/intermediates/res/merged/debug/drawable-ldpi/icon_extra.png",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/Clock20/src/main/res/drawable-ldpi/icon_extra.png"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/Clock20/build/intermediates/res/merged/debug/drawable-ldpi/icon_alarm.png",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/Clock20/src/main/res/drawable-ldpi/icon_alarm.png"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/Clock20/build/intermediates/res/merged/debug/drawable-ldpi/icon_light_on.png",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/Clock20/src/main/res/drawable-ldpi/icon_light_on.png"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/Clock20/build/intermediates/res/merged/debug/drawable-ldpi/icon_sound_off.png",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/Clock20/src/main/res/drawable-ldpi/icon_sound_off.png"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/Clock20/build/intermediates/res/merged/debug/drawable-ldpi/ic_launcher.png",
+        "source": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/Clock20/src/main/res/drawable-ldpi/ic_launcher.png"
+    }
+]

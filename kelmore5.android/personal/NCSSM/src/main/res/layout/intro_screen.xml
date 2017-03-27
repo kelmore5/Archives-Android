@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background_gradient"
+    android:id="@+id/introScreen" >
+    
+    <TextView
+        android:id="@+id/mapTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/mapTitle"
+        android:textSize="36sp"
+        android:textColor="#FFFFFF"
+        android:layout_centerHorizontal="true"
+        android:paddingTop="12dp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:textIsSelectable="false"
+        />
+    
+    <TextView 
+        android:id="@+id/poweredBy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_centerHorizontal="true"
+        android:textSize="18sp"
+        android:textColor="#FFFFFF"
+        android:layout_below="@id/mapTitle"
+        android:textIsSelectable="false"
+        android:text="@string/poweredBy"
+        android:paddingTop="20dp"
+        android:paddingBottom="12dp"
+        />
+    
+    <ImageView
+        android:id="@+id/sgPicture"
+        android:layout_below="@id/poweredBy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/sglogo"
+        android:gravity="center"
+        android:layout_centerHorizontal="true"
+        android:contentDescription="@string/sgLogoDesc"
+        />
+    
+    <TextView 
+        android:id="@+id/createdBy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_centerHorizontal="true"
+        android:textSize="14sp"
+        android:textColor="#FFFFFF"
+        android:layout_below="@id/sgPicture"
+        android:textIsSelectable="false"
+        android:text="@string/createdBy"
+        android:paddingTop="20dp"
+        android:paddingBottom="8dp"
+        />
+    
+    <TextView 
+        android:id="@+id/kyleElmore"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_centerHorizontal="true"
+        android:textSize="24sp"
+        android:textColor="#FFFFFF"
+        android:layout_below="@id/createdBy"
+        android:textIsSelectable="false"
+        android:text="@string/ultimateCreator"
+        android:paddingTop="8dp"
+        android:paddingBottom="12dp"
+        />
+
+    <TextView 
+        android:id="@+id/turnOff"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="12sp"
+        android:textColor="#FFFFFF"
+        android:textIsSelectable="false"
+        android:text="@string/turnOff"
+        android:paddingTop="8dp"
+        android:paddingBottom="12dp"
+        android:layout_alignParentBottom="true"
+        android:paddingLeft="6dp"
+        />
+    
+</RelativeLayout>

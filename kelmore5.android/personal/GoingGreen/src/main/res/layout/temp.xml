@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.0"
+        android:background="#000000"
+        android:gravity="center"
+        android:text="@string/tempInside"
+        android:textColor="#FFFFFF"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/insideTempText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="2.0"
+        android:background="#000000"
+        android:gravity="center"
+        android:text="@string/defaultTemp"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="75sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.0"
+        android:background="#000000"
+        android:gravity="center"
+        android:text="@string/tempOutside"
+        android:textColor="#FFFFFF"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/outsideTempText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="2.0"
+        android:background="#000000"
+        android:gravity="center"
+        android:text="@string/defaultTemp"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="75sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.0"
+        android:background="#000000"
+        android:gravity="center"
+        android:text="@string/energyWaste"
+        android:textColor="#FFFFFF"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/energyWasteText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="2.0"
+        android:background="#000000"
+        android:gravity="center"
+        android:text="@string/defaultTemp"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="75sp" />
+
+</TableLayout>

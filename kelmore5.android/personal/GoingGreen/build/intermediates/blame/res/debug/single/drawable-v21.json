@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/kyle/.android/build-cache/b633fb1d302ec5076333bd8e0b0ecb0c26cf041c/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/kyle/.android/build-cache/b633fb1d302ec5076333bd8e0b0ecb0c26cf041c/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/kyle/.android/build-cache/b633fb1d302ec5076333bd8e0b0ecb0c26cf041c/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/kyle/.android/build-cache/b633fb1d302ec5076333bd8e0b0ecb0c26cf041c/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/kyle/Dropbox/workspace/AndroidStudioProjects/TheKeLonichles/GoingGreen/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/kyle/.android/build-cache/d90cb83f7d6d428f2f31c85af62d11628629c7a2/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    }
+]

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="icons">
+        <item>@drawable/ic_home_white_24dp</item>
+        <item>@drawable/ic_search_white_24dp</item>
+        <item>@drawable/ic_camera_alt_white_24dp</item>
+        <item>@drawable/ic_mood_white_24dp</item>
+        <item>@drawable/ic_person_white_24dp</item>
+    </array>
+</resources>
